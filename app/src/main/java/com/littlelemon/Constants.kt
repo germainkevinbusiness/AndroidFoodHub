@@ -1,0 +1,6 @@
+package com.littlelemon
+
+const val PRODUCT_TITLE = "PRODUCT_TITLE"
+const val PRODUCT_PRICE = "PRODUCT_PRICE"
+const val PRODUCT_CATEGORY = "PRODUCT_CATEGORY"
+const val PRODUCT_IMAGE = "PRODUCT_IMAGE"
